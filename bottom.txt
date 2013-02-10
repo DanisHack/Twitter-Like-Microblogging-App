@@ -1,0 +1,12 @@
+          
+  	  </div>
+		  
+        </div>
+		<center>
+	<div><p>For more info or queries contact <a href="" color="blue">Danish Mohd</a></p>
+				<h6>2012-13 ThinkLabs By Mohd Danish . All Rights Reserved.</h6></div>
+      </div>
+    
+	</div></div></div>
+  </body>
+</html> 
